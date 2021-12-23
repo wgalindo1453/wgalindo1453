@@ -1,10 +1,10 @@
 <img src='githubgif2.gif' width=''/>
 
 ### Hi there, I'm [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
-I am a Senior studying Computer Science at [University of Texas at San Antonio](https://www.utsa.edu/), Texas. Apart from that I am part time tutor who loves teaching fundamentals of programming through [frogtutor](https://frogtutoring.com/tutor/TX/San_Antonio/111687)  and contributing to open source here on Github.
+I am a Senior studying Computer Science at [University of Texas at San Antonio](https://www.utsa.edu/), Apart from that I am part time tutor who loves teaching fundamentals of programming through [frogtutor.com](https://frogtutoring.com/tutor/TX/San_Antonio/111687)  and contributing to open source here on Github.
 
 
-- 💻 Currently working on , 
+- 💻 Currently working on learning GoLang,  very useful for writing light-weight microservices. currently used for generating APIs that interact with our front-end applications 
 - 👨🏽‍💻 Currently growing my skillset in Web Development particularly Dev/Ops using Docker Containerization 
 
 **My Reseach Interest**:
