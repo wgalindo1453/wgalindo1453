@@ -1,4 +1,4 @@
-<img src='https://imgur.com/RM1hBWA.gif' width=''/>
+<img src='githubgif2.gif' width=''/>
 
 ### Hi there 👋
 
