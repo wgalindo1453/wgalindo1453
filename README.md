@@ -1,6 +1,6 @@
 <img src='githubgif2.gif' width=''/>
-### Hi there, I'm  [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
 
+### Hi there, I'm [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
 I am a Senior studying Computer Science at [University of Texas at San Antonio](https://www.utsa.edu/), Texas. Apart from that I am part time tutor who loves teaching fundamentals of programming through [frogtutor](https://frogtutoring.com/tutor/TX/San_Antonio/111687)  and contributing to open source here on Github.
 
 
