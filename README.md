@@ -19,7 +19,7 @@ I am a Senior studying Computer Science at [University of Texas at San Antonio](
 
 
 **Recent Update**:
-- **December 2021**: Today my team and I placed 3rd in the CodePath Nationals mobile app competition! [EventMe Promo](https://www.youtube.com/watch?v=BRp4Toejjyc).
+- **December 2021**:  my team and I placed 3rd in the CodePath Nationals mobile app competition! [EventMe Promo](https://www.youtube.com/watch?v=BRp4Toejjyc).
 - **December 2021**: My team and I won our local CodePath class group project competition at The University of Texas at San Antonio for best android app. [Eventme](https://www.youtube.com/watch?v=8XOlISfdpbU).
 - **November 2021**: Completed CodePath Android Development Course. [[Certificate]](https://drive.google.com/file/d/1nBzoyH5kayQG9bjIhtI4hMQGSi-7kqim/view?usp=sharing)
 
