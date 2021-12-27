@@ -48,8 +48,8 @@ I am a Senior studying Computer Science at [University of Texas at San Antonio](
 
 
 
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgalindo1453)]()
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wgalindo1453)]()
 
 <!--
 **wgalindo1453/wgalindo1453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
