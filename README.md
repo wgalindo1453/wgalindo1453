@@ -1,15 +1,15 @@
 <img src='githubgif2.gif' width=''/>
 
 ### Hi there, I'm [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
-I am a Senior studying Computer Science at [University of Texas at San Antonio](https://www.utsa.edu/), Apart from that I am part time tutor who loves teaching fundamentals of programming through [frogtutor.com](https://frogtutoring.com/tutor/TX/San_Antonio/111687)  and contributing to open source here on Github.
+I am a PhD student studying Computer Science at[University of Texas at San Antonio](https://www.utsa.edu/), where my research interests lie in the areas of cloud computing and serverless computing performance. Apart from my studies, I am a part-time tutor and I love teaching the fundamentals of programming through [frogtutor.com](https://frogtutoring.com/tutor/TX/San_Antonio/111687)  Additionally, I enjoy contributing to open source projects on Github.
 
 
 - 💻 Currently working on learning GoLang,  very useful for writing light-weight microservices. currently used for generating APIs that interact with our front-end applications 
 - 👨🏽‍💻 Currently growing my skillset in Web Development particularly Dev/Ops using Docker Containerization 
 
 **My Reseach Interest**:
-- Android Test Doubles Resuability
-
+- Cloud Computing: I am particularly interested in exploring the capabilities of cloud computing platforms such as AWS, Azure, and Google Cloud Platform to build scalable and resilient applications. I am also interested in researching the security and privacy implications of cloud computing and exploring ways to mitigate them.
+- Serverless Computing Performance: I am interested in researching the performance of serverless functions on cloud platforms, and finding ways to make it more transparent to developers when using AWS and Google Cloud services. My goal is to help developers optimize their serverless applications for performance and cost-effectiveness.
 
  **I am open to**:
 
