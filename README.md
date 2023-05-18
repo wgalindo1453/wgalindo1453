@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
 
-Welcome to my GitHub profile! I am currently a PhD candidate in Computer Science at the [University of Texas at San Antonio](https://www.utsa.edu/). My research journey has led me to focus on the intricacies of cloud computing and serverless computing performance - areas where I believe innovation and enhancement are pivotal.
+Welcome to my GitHub profile! I am currently a PhD student in Computer Science at the [University of Texas at San Antonio](https://www.utsa.edu/). My research journey has led me to focus on the intricacies of cloud computing and serverless computing performance - areas where I believe innovation and enhancement are pivotal.
 
 Beyond academia, I have a passion for sharing knowledge and insights with others. I take great pleasure in tutoring various computer science courses through [frogtutor.com](https://frogtutoring.com/tutor/TX/San_Antonio/111687). Not only does this allow me to contribute to the learning journeys of aspiring programmers, but it also keeps me sharp across various programming languages. Each tutoring session brings new challenges that inspire me to stay at the forefront of emerging trends and technologies.
 
