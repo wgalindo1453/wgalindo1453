@@ -21,6 +21,7 @@ I have worked on numerous projects utilizing the following technologies:
 - **Languages:** Python, Java, C++, JavaScript, SQL
 - **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn
 - **Cloud Computing:** AWS, GCP, Azure, Docker, Kubernetes
+- **CI/CD:** Jenkins, Travis CI, CircleCI, GitHub Actions
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
