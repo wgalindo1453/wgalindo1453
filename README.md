@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I am a Full Stack Developer with a passion for cre
 ## 🚀 Projects Showcase
 
 ### 🌟 TaleCrafters: Where Stories Come to Life
-Proud to unveil TaleCrafters, a magical storytelling platform powered by ChatGPT and DALL-E 3. Whether you seek whimsical humor or delightful eeriness, our stories captivate and spark imagination across all ages. Start your storytelling adventure today!  
+Proud to unveil TaleCrafters, a magical storytelling platform powered by ChatGPT. Whether you seek whimsical humor or delightful eeriness, our stories captivate and spark imagination across all ages. Start your storytelling adventure today!  
 [Explore TaleCrafters](https://talecrafters.com/)
 
 ### 🍳 How Do I Make: A Culinary Adventure Awaits
-Introducing TheCraftLink's "How Do I Make," a cutting-edge recipe search engine powered by ChatGPT-4 and DALLE-3. Discover detailed recipes, stunning visuals, and unique stories, making your culinary journey truly immersive.  
+Introducing TheCraftLink's "How Do I Make," a cutting-edge recipe search engine powered by ChatGPT. Discover detailed recipes, stunning visuals, and unique stories, making your culinary journey truly immersive.  
 [Discover How Do I Make](https://www.thecraftlink.com/)
 
 ---
