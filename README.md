@@ -27,11 +27,11 @@ Introducing TheCraftLink's "How Do I Make," a cutting-edge recipe search engine 
 
 ## 💼 Tech Stack
 
-- **Languages:** Python, Java, C++, JavaScript, SQL
+- **Languages:** Python, Java, C++, JavaScript, SQL, PHP, Lua
 - **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn
 - **Cloud Computing:** AWS, GCP, Azure, Docker, Kubernetes
-- **CI/CD:** Jenkins, Travis CI, CircleCI, GitHub Actions
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
+- **CI/CD:** Jenkins, Travis CI, CircleCI, GitHub Actions, BitBucket, GitLab
+- **Web Development:** HTML, CSS, JavaScript, Node.js, Laravel
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 
@@ -43,7 +43,7 @@ Introducing TheCraftLink's "How Do I Make," a cutting-edge recipe search engine 
 - Advanced serverless architectures
 - Integration of AI/ML in cloud services
 - 💻 Learning GoLang for lightweight microservices and API development
-- 🛠️ Expanding skills in Web Development and DevOps, especially Docker Containerization
+- 🛠️ Expanding skills in Web Development and DevOps, especially Containerization & Orchestration
 
 ---
 
