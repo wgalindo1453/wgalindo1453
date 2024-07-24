@@ -1,22 +1,31 @@
-<img src='githubgif2.gif' width=''/>
+<img src='githubgif2.gif' width='100%' alt='Banner Image'/>
 
 ### Hi there, I'm [William Galindo](https://www.linkedin.com/in/william-g-51b01775/) 👋
 
-Welcome to my GitHub profile! I am currently a PhD student in Computer Science at the [University of Texas at San Antonio](https://www.utsa.edu/). My research journey has led me to focus on the intricacies of cloud computing and serverless computing performance - areas where I believe innovation and enhancement are pivotal.
+Welcome to my GitHub profile! I am a Full Stack Developer with a passion for creating innovative solutions and a strong foundation in both frontend and backend technologies. I am planning to pursue a PhD in Computer Science, focusing on cloud computing and serverless computing performance.
 
-Beyond academia, I have a passion for sharing knowledge and insights with others. I take great pleasure in tutoring various computer science courses through [frogtutor.com](https://frogtutoring.com/tutor/TX/San_Antonio/111687). Not only does this allow me to contribute to the learning journeys of aspiring programmers, but it also keeps me sharp across various programming languages. Each tutoring session brings new challenges that inspire me to stay at the forefront of emerging trends and technologies.
+---
 
+## 🚀 Projects Showcase
 
-## 🧠 My Research Interest
+### 🌟 TaleCrafters: Where Stories Come to Life
+Proud to unveil TaleCrafters, a magical storytelling platform powered by ChatGPT and DALL-E 3. Whether you seek whimsical humor or delightful eeriness, our stories captivate and spark imagination across all ages. Start your storytelling adventure today!  
+[Explore TaleCrafters](https://talecrafters.com/)
 
-- **Cloud Computing:** I am particularly interested in exploring the capabilities of cloud computing platforms such as AWS, Azure, and Google Cloud Platform to build scalable and resilient applications. I am also interested in researching the security and privacy implications of cloud computing and exploring ways to mitigate them.
-- **Serverless Computing Performance:** I am interested in researching the performance of serverless functions on cloud platforms, and finding ways to make it more transparent to developers when using AWS and Google Cloud services. My goal is to help developers optimize their serverless applications for performance and cost-effectiveness.
+### 🍳 How Do I Make: A Culinary Adventure Awaits
+Introducing TheCraftLink's "How Do I Make," a cutting-edge recipe search engine powered by ChatGPT-4 and DALLE-3. Discover detailed recipes, stunning visuals, and unique stories, making your culinary journey truly immersive.  
+[Discover How Do I Make](https://www.thecraftlink.com/)
 
---
+---
 
-## 🛠️ Tech Stack
+## 🧠 Research Interests
 
-I have worked on numerous projects utilizing the following technologies:
+- **Cloud Computing:** Exploring scalable and resilient application design on platforms like AWS, Azure, and Google Cloud. Focus on security, privacy, and performance optimization.
+- **Serverless Computing Performance:** Investigating serverless function performance and developer transparency on cloud services.
+
+---
+
+## 💼 Tech Stack
 
 - **Languages:** Python, Java, C++, JavaScript, SQL
 - **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn
@@ -26,80 +35,59 @@ I have worked on numerous projects utilizing the following technologies:
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 
---
+---
 
-## 🌱 What I'm currently learning 
+## 🌱 Currently Learning 
 
-- Exploring different AI and ML algorithms for use in cloud computing problems
-- Furthering my knowledge of cloud computing platforms, and serverless architectures
-- Investigating the integration of AI and ML solutions in existing cloud computing services
-- 💻 Currently working on learning GoLang,  very useful for writing light-weight microservices. currently used for generating APIs that interact with our front-end applications 
-- 👨🏽‍💻 Currently growing my skillset in Web Development particularly Dev/Ops using Docker Containerization 
+- AI/ML algorithms for cloud computing
+- Advanced serverless architectures
+- Integration of AI/ML in cloud services
+- 💻 Learning GoLang for lightweight microservices and API development
+- 🛠️ Expanding skills in Web Development and DevOps, especially Docker Containerization
 
-## 📘 What I'm currently reading 
+---
+
+## 📖 Current Reads
 
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - "Cloud Native Patterns: Designing change-tolerant software" by Cornelia Davis
-- Investigating the integration of AI and ML solutions in existing cloud computing services
 - "The Book of Why: The New Science of Cause and Effect" by Judea Pearl and Dana Mackenzie
 
-
-
- **I am open to**:
-
-- any collobration work,
-- Web Dev learning projects(development or research),
-- research internships and
-
+---
 
 ## 🏆 Recent Updates
 
-- **December 2021:**  My team and I placed 3rd in the CodePath Nationals mobile app competition! [EventMe Promo](https://www.youtube.com/watch?v=BRp4Toejjyc).
-- **December 2021:** My team and I won our local CodePath class group project competition at The University of Texas at San Antonio for best android app. [Eventme](https://www.youtube.com/watch?v=8XOlISfdpbU).
-- **November 2021:** Completed CodePath Android Development Course. [[Certificate]](https://drive.google.com/file/d/1nBzoyH5kayQG9bjIhtI4hMQGSi-7kqim/view?usp=sharing)
+- **July 2024:** Launched TaleCrafters and "How Do I Make," two innovative platforms powered by AI.
+- **June 2024:** Developed a new IP restriction feature for user access in my current project at JenesisSoftware.
+- **May 2024:** Contributed to a major update on serverless computing performance analysis tools.
+- **December 2021:** Placed 3rd in the CodePath Nationals mobile app competition! [EventMe Promo](https://www.youtube.com/watch?v=BRp4Toejjyc).
+- **November 2021:** Won the local CodePath class project competition at UTSA for the best Android app. [Eventme](https://www.youtube.com/watch?v=8XOlISfdpbU).
 
+---
 
+## 🌐 Connect with me:
 
-
-## What I am Reading:
-
-**My Weekly Reading List**
-- [The 2022 DevOps Engineer and SRE RoadMap](https://medium.com/javarevisited/the-2018-devops-roadmap-31588d8670cb)
-
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />]()
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://wgalindo1453.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Will1453) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/william-g-51b01775/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/me/stories/drafts)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />]()
-
+<p align="center">
+  <a href="https://wgalindo1453.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="https://twitter.com/Will1453"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/william-g-51b01775/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/me/stories/drafts"><img src="https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
-## ⚡ Fun fact 
+---
 
-- I'm the proud owner of a personal zoo at home, which includes 1 German Shepherd, 1 Great Pyrenees, 1 Tabby Cat, and 4 Goldfish. They're all part of my debugging team when I code. And guess what? The cat's solutions usually work!
+## ⚡ Fun Fact
 
+I'm the proud owner of a personal zoo, which includes 1 German Shepherd, 1 Great Pyrenees, 1 Tabby Cat, and 4 Goldfish. They're all part of my debugging team when I code. And guess what? The cat's solutions usually work!
 
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgalindo1453&show_icons=true&theme=tokyonight)](https://github.com/wgalindo1453)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wgalindo1453)]()
+---
 
-<!--
-**wgalindo1453/wgalindo1453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a solid foundation in Computer Science from The University of Texas at San Antonio, where I earned my B.S., my journey in tech has been both broad and deep. I bring a wealth of experience from FrogTutoring, where I passionately guide students through the complexities of programming, databases, and application development. My academic path has also seen me contribute as a research and teaching assistant, focusing on innovative data extraction methods from public repositories and exploring the potentials of cloud computing.
 
-Here are some ideas to get you started:
+Before embarking on my tech career, I served in the US Marine Corps, where I honed my leadership and discipline as a drill instructor and aviation maintenance supervisor. These experiences have instilled in me a unique blend of rigor, management skills, and technical prowess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am embracing the role of a software developer at JenesisSoftware, where I am committed to driving innovation and growth. Alongside my professional endeavors, I remain a devoted tutor at FrogTutoring, fueled by a love for learning and empowering students. My expertise spans a wide array of languages and technologies, including web development, Android development, and desktop applications. What sets me apart is not just my proficiency in these areas but my adaptability, attention to detail, and humility in tackling the various challenges that each project brings.
 
+As I continue my education in Computer Science, my journey is characterized by perpetual learning, teaching, and the development of innovative solutions that make a difference.
